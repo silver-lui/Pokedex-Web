@@ -1,2 +1,2 @@
 # Pokedex-Web
-PokeAPI
+PokemonAPI
